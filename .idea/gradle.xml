@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/chapter14-weather" />
+            <option value="$PROJECT_DIR$/chapter4-FragmentBestPractice" />
+            <option value="$PROJECT_DIR$/chapter4-FragmentTest" />
+            <option value="$PROJECT_DIR$/chapter5-BroadcastTest" />
+            <option value="$PROJECT_DIR$/chapter5-BroadcastTest2" />
+            <option value="$PROJECT_DIR$/chapter6-BroadcastBestPractice" />
+            <option value="$PROJECT_DIR$/chapter6-DatabaseTest" />
+            <option value="$PROJECT_DIR$/chapter6-FilePersistenceTest" />
+            <option value="$PROJECT_DIR$/chapter6-SharedPreferencesTest" />
+            <option value="$PROJECT_DIR$/chapter7-ContactsTest" />
+            <option value="$PROJECT_DIR$/chapter7-RuntimePermissionTest" />
+            <option value="$PROJECT_DIR$/chapter8-CameraAlbumTest" />
+            <option value="$PROJECT_DIR$/chapter8-NotificationTest" />
+            <option value="$PROJECT_DIR$/chapter8-PlayAudioTest" />
+            <option value="$PROJECT_DIR$/chapter8-PlayVideoTest" />
+            <option value="$PROJECT_DIR$/chapter9-NetworkTest" />
+            <option value="$PROJECT_DIR$/chapter9-WebViewTest" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

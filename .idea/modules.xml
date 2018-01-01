@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BooCode.iml" filepath="$PROJECT_DIR$/BooCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter14-weather/chapter14-weather.iml" filepath="$PROJECT_DIR$/chapter14-weather/chapter14-weather.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter4-FragmentBestPractice/chapter4-FragmentBestPractice.iml" filepath="$PROJECT_DIR$/chapter4-FragmentBestPractice/chapter4-FragmentBestPractice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter4-FragmentTest/chapter4-FragmentTest.iml" filepath="$PROJECT_DIR$/chapter4-FragmentTest/chapter4-FragmentTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter5-BroadcastTest/chapter5-BroadcastTest.iml" filepath="$PROJECT_DIR$/chapter5-BroadcastTest/chapter5-BroadcastTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter5-BroadcastTest2/chapter5-BroadcastTest2.iml" filepath="$PROJECT_DIR$/chapter5-BroadcastTest2/chapter5-BroadcastTest2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter6-BroadcastBestPractice/chapter6-BroadcastBestPractice.iml" filepath="$PROJECT_DIR$/chapter6-BroadcastBestPractice/chapter6-BroadcastBestPractice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter6-DatabaseTest/chapter6-DatabaseTest.iml" filepath="$PROJECT_DIR$/chapter6-DatabaseTest/chapter6-DatabaseTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter6-FilePersistenceTest/chapter6-FilePersistenceTest.iml" filepath="$PROJECT_DIR$/chapter6-FilePersistenceTest/chapter6-FilePersistenceTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter6-SharedPreferencesTest/chapter6-SharedPreferencesTest.iml" filepath="$PROJECT_DIR$/chapter6-SharedPreferencesTest/chapter6-SharedPreferencesTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter7-ContactsTest/chapter7-ContactsTest.iml" filepath="$PROJECT_DIR$/chapter7-ContactsTest/chapter7-ContactsTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter7-RuntimePermissionTest/chapter7-RuntimePermissionTest.iml" filepath="$PROJECT_DIR$/chapter7-RuntimePermissionTest/chapter7-RuntimePermissionTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter8-CameraAlbumTest/chapter8-CameraAlbumTest.iml" filepath="$PROJECT_DIR$/chapter8-CameraAlbumTest/chapter8-CameraAlbumTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter8-NotificationTest/chapter8-NotificationTest.iml" filepath="$PROJECT_DIR$/chapter8-NotificationTest/chapter8-NotificationTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter8-PlayAudioTest/chapter8-PlayAudioTest.iml" filepath="$PROJECT_DIR$/chapter8-PlayAudioTest/chapter8-PlayAudioTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter8-PlayVideoTest/chapter8-PlayVideoTest.iml" filepath="$PROJECT_DIR$/chapter8-PlayVideoTest/chapter8-PlayVideoTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter9-NetworkTest/chapter9-NetworkTest.iml" filepath="$PROJECT_DIR$/chapter9-NetworkTest/chapter9-NetworkTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter9-WebViewTest/chapter9-WebViewTest.iml" filepath="$PROJECT_DIR$/chapter9-WebViewTest/chapter9-WebViewTest.iml" />
+    </modules>
+  </component>
+</project>
